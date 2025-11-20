@@ -1,4 +1,4 @@
-# RAd Vision Engine (RAVE)
+# Radiology Vision Engine (RAVE)
 
 A high-performance medical image processing engine for converting DICOM and NIfTI files into ML-ready formats with intelligent windowing and compression.
 
